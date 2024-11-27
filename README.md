@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAPH&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=holi)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAPH&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=holi](https://github-readme-stats-ghcv.vercel.app/api/top-langs/?username=PauloAPH&langs_count=8&layout=compact&size_weight=0&count_weight=0.5&theme=holi)))
 
